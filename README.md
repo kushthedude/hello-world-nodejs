@@ -1,2 +1,4 @@
 # hello-world-nodejs
-Hello world application for nodes
+Hello world application for node.js
+
+Useful for debugging cloud workloads or local-vms
